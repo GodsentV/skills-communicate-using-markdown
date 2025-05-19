@@ -4,3 +4,6 @@ Learnt how to use Markdowns and Headers
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Learn about Markdowns
+- [ ] Learn about repos
+- [ ] Work on Markers
